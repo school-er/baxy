@@ -7,11 +7,13 @@ I've always had a fascination about computers doing division and failing at it. 
 We have our own custom adding decimal system, and Baxy can do problems that python usually can't
 
 # How do I implement it into my project?
-Use import baxy (or from baxy import divide), and do baxy.divide(<number to divide>, <number to divide by>) or baxy.divide('<number to divide>/<number to divide by>') as either work.
+Use import baxy (or from baxy import divide), and do baxy.divide(*number to divide*, *number to divide by*) or baxy.divide('*number to divide*/*number to divide by*') as either work.
 
 # What are some bugs in Baxy?
 There is one bug that is persistent that we're working on fixing, that sometimes there's a multiplication error that happens due to Python
+
 (e.g. 11.2 * 0.1 = 1.1199999999999999)
+
 In version 2 of Baxy, we're gonna try to implement our own custom multiplication system to combat this
 
 # What do the error codes mean?
