@@ -26,6 +26,8 @@ DIVIDE_BY_ZERO - You divided by zero
 
 L1TO, L2TO, L3TO - It took longer than 10 seconds to do an equation, most likely a multiplication error happened
 
+If however you get L3TO, I'd like to see what the equation was, so please submit it to the email below
+
 GTR10 - The rarest error code, If you got this please submit it to contactcrampy@gmail.com
 
 # What is an example implementation?
