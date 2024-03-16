@@ -31,6 +31,9 @@ If however you get L3TO, I'd like to see what the equation was, so please submit
 
 GTR10 - The rarest error code, If you got this please submit it to contactcrampy@gmail.com
 
+
+If however you get an error that is not listed here, and with a valid equation, please submit it.
+
 # What is an example implementation?
 
 ```python
