@@ -1,5 +1,6 @@
 # Baxy
 Baxy Python Division System
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 # What Is This?
@@ -25,3 +26,12 @@ DIVIDE_BY_ZERO - You divided by zero
 L1TO, L2TO, L3TO - It took longer than 10 seconds to do an equation, most likely a multiplication error happened
 
 GTR10 - The rarest error code, If you got this please submit it to contactcrampy@gmail.com
+
+# What is an example implementation?
+
+```python
+    from baxy import divide
+    print('Enter division equation to calculate')
+    equation = input('>')
+    print(divide(equation))
+```
