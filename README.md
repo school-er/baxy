@@ -22,6 +22,7 @@ In version 2 of Baxy, we're gonna try to implement our own custom multiplication
 
 Common error codes:
 NOT_VALID_EQUATION - You didn't put in a valid division equation in properly
+
 DIVIDE_BY_ZERO - You divided by zero
 
 L1TO, L2TO - It took longer than 10 seconds to do an equation, most likely a multiplication error happened
