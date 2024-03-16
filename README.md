@@ -24,7 +24,7 @@ Common error codes:
 NOT_VALID_EQUATION - You didn't put in a valid division equation in properly
 DIVIDE_BY_ZERO - You divided by zero
 
-L1TO, L2TO, L3TO - It took longer than 10 seconds to do an equation, most likely a multiplication error happened
+L1TO, L2TO - It took longer than 10 seconds to do an equation, most likely a multiplication error happened
 
 If however you get L3TO, I'd like to see what the equation was, so please submit it to the email below
 
