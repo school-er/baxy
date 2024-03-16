@@ -31,7 +31,9 @@ GTR10 - The rarest error code, If you got this please submit it to contactcrampy
 
 ```python
     from baxy import divide
-    print('Enter division equation to calculate')
-    equation = input('>')
-    print(divide(equation))
+    print('Enter number to divide')
+    num1 = input('>')
+    print('Enter number to divide by')
+    num2 = input('>')
+    print(divide(num1, num2))
 ```
