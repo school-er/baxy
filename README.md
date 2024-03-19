@@ -16,7 +16,7 @@ There is one bug that is persistent that we're working on fixing, that sometimes
 
 (e.g. 11.2 * 0.1 = 1.1199999999999999)
 
-In version 2 of Baxy, we're gonna try to implement our own custom multiplication system to combat this
+In version 1.1 of Baxy, we're gonna try to implement our own custom multiplication system to combat this
 
 # What do the error codes mean?
 
