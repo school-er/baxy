@@ -18,7 +18,7 @@ def divide(inp, inp2=None): # Baxy Version 1 #
     zer=1;oga=a
     while b==1 and float(f'{str(a)[:len(str(a))-1]}1')*y>x:
       if time.time()-st>=10:return f"Something went wrong. Error code L3TO. Got {a} ."
-      a = float(f'{str(oga)[:len(str(oga))-1]}{"0"*zer}1')
+      a=float(f'{str(oga)[:len(str(oga))-1]}{"0"*zer}1')
       if b==1 and float(f'{str(a)}1')*y>x and float(f'{str(a)[:len(str(a))-1]}{"0"*(zer-1)}1')*y>x and float(f'{str(a)[:len(str(a))-1]}{"0"*zer}1')*y==x:a=float(f'{str(a)[:len(str(a))-1]}{"0"*zer}1');return a
       zer+=1
     if a*y>x and (float(f'{str(a)[:len(str(a))]}{b-1}'))<x:a=float(f'{str(a)[:len(str(a))-1]}{b-1}');b=1;a=float(f'{str(a)[:len(str(a))]}{b}')
