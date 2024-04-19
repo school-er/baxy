@@ -44,3 +44,4 @@ If however you get an error that is not listed here, and with a valid equation, 
     num2 = input('>')
     print(divide(num1, num2))
 ```
+![carbon](https://github.com/school-er/baxy/assets/144954225/d3902924-4fb1-4421-9d9e-417ef485f632)
