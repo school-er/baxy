@@ -49,7 +49,9 @@ If however you get an error that is not listed here, and with a valid equation, 
 
 A good portion of the code, I had to use a whiteboard to draw out how I wanted it to work, and it helped me get Baxy started
 ![image](https://github.com/school-er/baxy/assets/144954225/b34c5238-09e5-4b7c-83f0-feda2407b38f)
+
 That made this code
+
 ![image](https://github.com/school-er/baxy/assets/144954225/71d4a691-c641-439c-8989-439ad1eb1aad)
 
 
